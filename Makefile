@@ -1,5 +1,6 @@
 SCRIPTS := noise.py
 SCRIPTS += chi2.py
+SCRIPTS += chi2_2.py
 
 .PHONY: $(SCRIPTS)
 
